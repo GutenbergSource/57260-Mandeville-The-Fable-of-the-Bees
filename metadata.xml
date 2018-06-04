@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Fable of the Bees; or, Private Vices, Public Benefits</dc:title>
+      <dc:creator>Bernard Mandeville, (1670–1733)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2018-06-04</dc:publisher>
+      <dc:date>2018-06-04</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ This eBook is based on the 1806 edition published by T. Ostell and Mundell and Son (scans at The Internet Archive). This edition was selected as it is the most complete and easiest to process public domain source available. Scans for numerous other editions can be found on-line, including the second edition of part I from 1723, and the first edition of part II from 1729. A text version of the 1924 Oxford edition can be also be obtained on-line (but this edition is not yet eligble for Project Gutenberg due to its copyright, expected to expire in 2020).
+
+ </dc:rights>
+      <dc:subject>Ethics</dc:subject>
+      <dc:subject>Virtue</dc:subject>
+      <dc:subject>Charity-schools</dc:subject>
+      <dc:identifier>pg:57260</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
